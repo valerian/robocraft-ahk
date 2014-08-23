@@ -40,6 +40,7 @@ Need more people on the path near C-4
 ## Cardinal directions
 
 Pressing a keypad number sends a message with the corresponding cardinal direction (north, south, east, west, and combinations)
+
 **Make sure that you are in _Team_ chat, and not _Everyone_ chat**
 
 Here is a list of possible actions, with the example of pression keypad 7, which is north-west.
@@ -70,7 +71,8 @@ Need more people around north-west
 
 #### F1
 
-** Only works if you have no platoon or private chat open, and you are in team chat **
+**Only works if you have no platoon or private chat open, and you are in team chat**
+
 Switches to "Everyone" chat and says "Good Luck and Have Fun!", then goes back to "Team" chat
 
 #### F2
@@ -83,6 +85,7 @@ Says "Defend outr base!" in current chat.
 
 #### F4
 
-** Only works if you have no platoon or private chat open, and you are in team chat **
+**Only works if you have no platoon or private chat open, and you are in team chat**
+
 Switches to "Everyone" chat and says "Good Game", then goes back to "Team" chat
 
