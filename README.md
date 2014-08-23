@@ -4,10 +4,12 @@ robocraft-ahk
 Hotkeys and map alerts for Robocraft
 To use this script you need to install AutoHotkey, then double click on the "Robocraft.ahk" file.
 
-This script was made quickly and is still experimental, feel free to provide any help or feedback.
-The minimap click feature should work fine with all resolutions, as long as you either use the same native resolution as your screen for fullscreen, or are in windowed mode.
+![Robocraft script in action](https://raw.githubusercontent.com/valerian/robocraft-ahk/master/AHK%20Robocraft.jpg)
 
-Feel free to edit it, translate it, or improve it.
+This script was made quickly and is still experimental.
+Feel free to edit it, translate it or improve it, your feedback is welcome :) .
+
+The minimap click feature should work fine with all resolutions, as long as you either use the same native resolution as your screen for fullscreen, or are in windowed mode.
 
 ## Minimap click message
 
