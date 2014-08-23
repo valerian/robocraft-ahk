@@ -1,7 +1,8 @@
 robocraft-ahk
 =============
 
-Hotkeys and map alerts for Robocraft
+This script provides Hotkeys and minimap alerts for Robocraft
+
 To use this script you need to install AutoHotkey, then double click on the "Robocraft.ahk" file.
 
 ![Robocraft script in action](https://raw.githubusercontent.com/valerian/robocraft-ahk/master/AHK%20Robocraft.jpg)
