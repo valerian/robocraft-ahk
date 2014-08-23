@@ -13,7 +13,7 @@ The minimap click feature should work fine with all resolutions, as long as you 
 
 ## Minimap click message
 
-Clicking on the minimap sends a message to your team with the coordinates you clicked on.
+Clicking on the minimap sends a message to your team with the coordinates you clicked on. Of course you need to press *Enter* in order to control the mouse for clicking the minimap.
 **Make sure that you are in _Team_ chat, and not _Everyone_ chat**
 
 Here is a list of possible actions, with the example of clicking on C-4 coordinates.
