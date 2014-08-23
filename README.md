@@ -84,7 +84,7 @@ Says "Capture ennemy base!" in current chat.
 
 #### F3
 
-Says "Defend outr base!" in current chat.
+Says "Defend our base!" in current chat.
 
 #### F4
 
